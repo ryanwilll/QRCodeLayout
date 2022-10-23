@@ -31,8 +31,8 @@ body {
   font-weight: 500;
   font-size: 15px;
   text-align: center;
-  color: hsl(240, 1%, 65%);
-  font-weight: 500px;
+  color: hsl(240, 0%, 57%);
+  font-weight: 500;
 }
 
 @media screen and (max-width: 1440px) {

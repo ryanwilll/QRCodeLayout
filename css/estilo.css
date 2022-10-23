@@ -32,7 +32,7 @@ body {
   font-size: 15px;
   text-align: center;
   color: hsl(240, 1%, 65%);
-  font: bold;
+  font-weight: 500px;
 }
 
 @media screen and (max-width: 1440px) {
